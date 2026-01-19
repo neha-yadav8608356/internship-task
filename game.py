@@ -2,17 +2,21 @@ import random
 
 def game():
     number = random.randint(1, 100)
-    # Difficulty Level
-    level = input("Choose difficulty 'easy' or 'hard': ")
+    print("\n--- Welcome to the Guessing Game! ---")
+    level = input("Choose difficulty 'easy' or 'hard': ").lower()
     attempts = 10 if level == 'easy' else 5
     score = 100
 
     while attempts > 0:
-        print(f"You have {attempts} attempts left.")
-        guess = int(input("Make a guess: "))
-        
+        print(f"\nYou have {attempts} attempts left.")
+        try:
+            guess = int(input("Make a guess: "))
+        except ValueError:
+            print("Please enter a valid number!")
+            continue
+            
         if guess == number:
-            print(f"Correct! Your final score is: {score}")
+            print(f"Correct! The number was {number}. Your score: {score}")
             return
         elif guess > number:
             print("Too high!")
@@ -20,8 +24,13 @@ def game():
             print("Too low!")
         
         attempts -= 1
-        score -= 10 # Score tracking
+        score -= 10
 
-    print(f"Game Over! The number was {number}.")
+    print(f"\nGame Over! The number was {number}.")
 
-game()
+while True:
+    game()                  
+    again = input("\nDo you want to play again? (y/n): ").lower()
+    if again != 'y':        
+        print("Goodbye!")  
+        break
