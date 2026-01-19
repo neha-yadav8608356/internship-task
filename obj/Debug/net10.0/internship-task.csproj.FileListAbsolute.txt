@@ -1,0 +1,15 @@
+C:\Users\Developer\Desktop\internship-task\bin\Debug\net10.0\internship-task.exe
+C:\Users\Developer\Desktop\internship-task\bin\Debug\net10.0\internship-task.deps.json
+C:\Users\Developer\Desktop\internship-task\bin\Debug\net10.0\internship-task.runtimeconfig.json
+C:\Users\Developer\Desktop\internship-task\bin\Debug\net10.0\internship-task.dll
+C:\Users\Developer\Desktop\internship-task\bin\Debug\net10.0\internship-task.pdb
+C:\Users\Developer\Desktop\internship-task\obj\Debug\net10.0\internship-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\internship-task\obj\Debug\net10.0\internship-task.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\internship-task\obj\Debug\net10.0\internship-task.AssemblyInfo.cs
+C:\Users\Developer\Desktop\internship-task\obj\Debug\net10.0\internship-task.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\internship-task\obj\Debug\net10.0\internship-task.sourcelink.json
+C:\Users\Developer\Desktop\internship-task\obj\Debug\net10.0\internship-task.dll
+C:\Users\Developer\Desktop\internship-task\obj\Debug\net10.0\refint\internship-task.dll
+C:\Users\Developer\Desktop\internship-task\obj\Debug\net10.0\internship-task.pdb
+C:\Users\Developer\Desktop\internship-task\obj\Debug\net10.0\internship-task.genruntimeconfig.cache
+C:\Users\Developer\Desktop\internship-task\obj\Debug\net10.0\ref\internship-task.dll
