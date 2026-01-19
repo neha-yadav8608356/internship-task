@@ -7,30 +7,41 @@ namespace MyCalculator
         static void Main(string[] args)
         {
             Console.Clear();
-            Console.WriteLine("--- Automatic Calculator Task (Day 6) ---");
-            Console.WriteLine("Testing all operations automatically...\n");
+            Console.WriteLine("--- Calculator Task ---");
 
-            double a = 10;
-            double b = 5;
-            double zero = 0;
-
-            Console.WriteLine($"Addition: {a} + {b} = {a + b}");
-            Console.WriteLine($"Subtraction: {a} - {b} = {a - b}");
-            Console.WriteLine($"Multiplication: {a} * {b} = {a * b}");
-
-            Console.WriteLine($"Advanced: Modulus (10 % 3) = {10 % 3}");
-            Console.WriteLine($"Advanced: Power (2 ^ 3) = {Math.Pow(2, 3)}");
-
-            Console.WriteLine("\n--- Error Handling Check ---");
-            if (zero == 0)
+            try
             {
-                Console.WriteLine("Error Check: 10 / 0 is NOT allowed! (DivideByZero handled)");
+                Console.Write("Enter first number: ");
+                double a = double.Parse(Console.ReadLine());
+
+                Console.Write("Enter second number: ");
+                double b = double.Parse(Console.ReadLine());
+
+                Console.WriteLine("\n--- Results ---");
+                Console.WriteLine($"Addition: {a + b}");
+                Console.WriteLine($"Subtraction: {a - b}");
+                Console.WriteLine($"Multiplication: {a * b}");
+
+                if (b == 0)
+                {
+                    Console.WriteLine("Division: Error! Cannot divide by zero.");
+                }
+                else
+                {
+                    Console.WriteLine($"Division: {a / b}");
+                }
+
+                Console.WriteLine($"Modulus: {a % b}");
+                Console.WriteLine($"Power: {Math.Pow(a, b)}");
+                Console.WriteLine($"Square Root: {Math.Sqrt(a)}");
             }
-            else
+            catch (Exception ex)
             {
-                Console.WriteLine($"Division: 10 / 5 = {10 / 5}");
+                Console.WriteLine($"\nError: {ex.Message}");
             }
 
+            Console.WriteLine("\n-------------------------");
+            Console.ReadKey();
         }
     }
 }
