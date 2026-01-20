@@ -1,0 +1,15 @@
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\bin\Debug\net10.0\UtilityLibrary.exe
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\bin\Debug\net10.0\UtilityLibrary.deps.json
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\bin\Debug\net10.0\UtilityLibrary.runtimeconfig.json
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\bin\Debug\net10.0\UtilityLibrary.dll
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\bin\Debug\net10.0\UtilityLibrary.pdb
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\obj\Debug\net10.0\UtilityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\obj\Debug\net10.0\UtilityLibrary.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\obj\Debug\net10.0\UtilityLibrary.AssemblyInfo.cs
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\obj\Debug\net10.0\UtilityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\obj\Debug\net10.0\UtilityLibrary.sourcelink.json
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\obj\Debug\net10.0\UtilityLibrary.dll
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\obj\Debug\net10.0\refint\UtilityLibrary.dll
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\obj\Debug\net10.0\UtilityLibrary.pdb
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\obj\Debug\net10.0\UtilityLibrary.genruntimeconfig.cache
+C:\Users\Developer\Desktop\internship-task\UtilityLibrary\obj\Debug\net10.0\ref\UtilityLibrary.dll
