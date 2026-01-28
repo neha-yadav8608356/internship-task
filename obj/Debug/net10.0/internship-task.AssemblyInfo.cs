@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("internship-task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5249e477a09bd9b1a31b5fbe5848935a24ed78cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc3dbce34d94ded3a71dea49c4cdc64e244746c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("internship-task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("internship-task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
