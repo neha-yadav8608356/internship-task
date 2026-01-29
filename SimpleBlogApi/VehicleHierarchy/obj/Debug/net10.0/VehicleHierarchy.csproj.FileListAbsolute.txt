@@ -1,0 +1,15 @@
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\bin\Debug\net10.0\VehicleHierarchy.exe
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\bin\Debug\net10.0\VehicleHierarchy.deps.json
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\bin\Debug\net10.0\VehicleHierarchy.runtimeconfig.json
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\bin\Debug\net10.0\VehicleHierarchy.dll
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\bin\Debug\net10.0\VehicleHierarchy.pdb
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.AssemblyInfo.cs
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.sourcelink.json
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.dll
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\obj\Debug\net10.0\refint\VehicleHierarchy.dll
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.pdb
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\obj\Debug\net10.0\VehicleHierarchy.genruntimeconfig.cache
+C:\Users\Developer\Desktop\internship_task\SimpleBlogApi\VehicleHierarchy\obj\Debug\net10.0\ref\VehicleHierarchy.dll
